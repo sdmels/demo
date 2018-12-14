@@ -10,5 +10,25 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "books": [
+    {
+      "id": 1,
+      "title": "my book 1",
+      "category": "comedy",
+      "description": "my book 1 description"
+    },
+    {
+      "id": 2,
+      "title": "my book 2",
+      "category": "drama",
+      "description": "my book 2 description"
+    },
+    {
+      "id": 3,
+      "title": "my book 3",
+      "category": "sport",
+      "description": "my book 3 description"
+    },  
+  ]  
 }
